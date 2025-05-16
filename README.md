@@ -31,7 +31,7 @@ Open your terminal and navigate to the project directory.
 
 Run the script using Python:
 ```bash
-    python src/scrapper.py
+python src/scrapper.py
 ```
 The script will:
 1. Connect to the Telegram channel
@@ -45,6 +45,7 @@ For first time
 1. You need to enter your phone number
 2. Enter the login code that you received in telegram
 3. Enter your password
+
 ![alt text](first_demo.png)
 
 After logging in if you run you get only the output:
