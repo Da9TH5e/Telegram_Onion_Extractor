@@ -1,0 +1,11 @@
+# Python-related
+__pycache__/
+
+# Environment & config
+.env
+/src/anon.session
+/config/last_message_id.txt
+/outputs/onion_links.json
+
+# VS Code
+.vscode/
